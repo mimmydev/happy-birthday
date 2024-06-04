@@ -1,23 +1,45 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+
+  "greeting": "heeeeloooo",
+
+  "name": "あいこ",
+
+  "greetingText": "やっとだな！！！",
+
+  "wishText": "お誕生日おめでとう！！",
+
   "imagePath": "img/lydia2.png",
-  "text1": "It's your birthday!!! :D",
-  "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
-  "sendButtonLabel": "Send",
-  "text2": "That's what I was going to do.",
-  "text3": "But then I stopped.",
-  "text4": "I realised, I wanted to do something",
-  "text4Adjective": "special",
-  "text5Entry": "Because,",
-  "text5Content": "You are Special",
-  "smiley": ":)",
-  "bigTextPart1": "S",
-  "bigTextPart2": "O",
+
+  "text1": "(今日は4月1日だと思ってください) お誕生日おめでとう！！！ :D",
+
+  "textInChatBox": "お誕生日おめでとう！！遅れてごめんね！！！",
+
+  "sendButtonLabel": "送信",
+
+  "text2": "そんなこと言ってたっけ？笑。ま、長い間連絡取れなくてごめんね、このプレゼントも遅れてしまって本当に申し訳ない！",
+
+  "text3": "そろそろバーチャルプレゼントを用意する時間かな...",
+
+  "text4": "たいしたことないけど、当日にお祝いできなかったのは私のせいだよね。",
+
+  "text4Adjective": "遅れてごめんね！",
+
+  "text5Entry": "ま、その日にお祝いできなかったのは私のせいだよねぇ",
+
+  "text5Content": "これで埋め合わせしたいと思って.....",
+
+  "smiley": ":D",
+
+  "bigTextPart1": "という",
+
+  "bigTextPart2": "わけで",
+
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+
+  "outroText": "こんなしょぼいバーチャルプレゼントだけど、これであなたの一日が少しでも明るくなればいいな",
+
+  "replayText": "もう一度見たい時はここをクリックして。恥ずかしいけど　（好きなだけ見てね、これもうやらんｗ）",
+
   "outroSmiley": ":)"
+
 }
